@@ -1,4 +1,4 @@
-# grid-search
+# record-linkage-SQL
 record-linkage algorithm implemented in SQL
 
 An algorithm implemented in SQL, that takes a new metadata record and matches it with the most similar old one based on some features. 
